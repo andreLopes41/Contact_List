@@ -4,12 +4,12 @@
 
 -- Diagrama entidade relacionamento --
 <br />
-<img src="https://user-images.githubusercontent.com/111528571/235330085-00d0f938-1a84-4a75-bb63-a8f1e2728334.png" width="800" height="200">
+<img src="https://user-images.githubusercontent.com/111528571/235330085-00d0f938-1a84-4a75-bb63-a8f1e2728334.png" width="800" height="250">
 <br />
 
 -- Tela inicial --
 <br />
-![tela_inicial](https://user-images.githubusercontent.com/111528571/235330210-ae125b4f-17fb-48e6-a928-b8c87e6fca87.png)
+<img src="https://user-images.githubusercontent.com/111528571/235330210-ae125b4f-17fb-48e6-a928-b8c87e6fca87.png" width="600" height="300">
 <br />
 
 -- Consulta de pessoas --
