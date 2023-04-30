@@ -14,7 +14,7 @@
 
 -- Consulta de pessoas --
 <br />
-![image](https://user-images.githubusercontent.com/111528571/235330361-bb5e0292-f11d-46ba-9016-d77b13345b83.png)
+<img src="https://user-images.githubusercontent.com/111528571/235330361-bb5e0292-f11d-46ba-9016-d77b13345b83.png" width="800" height="300">
 <br />
 
 -- Atualizar pessoa --
