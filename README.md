@@ -13,12 +13,16 @@ Diagrama que representa as entidades do sistema como Pessoa e Contato
 ### Tela inicial
 <br />
 <img src="https://user-images.githubusercontent.com/111528571/235330210-ae125b4f-17fb-48e6-a928-b8c87e6fca87.png" width="800" height="400">
+<br />
+Primeira tela do sistema Contact_List. Ela apresenta os campos de criação de uma pessoa para a memsa conseguir interagir com o sistema
 
 #
 
 ### Consulta de pessoas
 <br />
 <img src="https://user-images.githubusercontent.com/111528571/235330361-bb5e0292-f11d-46ba-9016-d77b13345b83.png" width="800" height="200">
+<br />
+Listagem de pessoas cadastradas no sistema. Apresenta os principais dados de cada pessoa, como nome e Cpf, além de permitir a edição ou exclusão de cada registro.
 
 #
 
