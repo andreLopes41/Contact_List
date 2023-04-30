@@ -19,22 +19,22 @@
 
 -- Atualizar pessoa --
 <br />
-![image](https://user-images.githubusercontent.com/111528571/235330382-d13371e5-10bd-46b9-8c94-210e17a1a53c.png)
+<img src="https://user-images.githubusercontent.com/111528571/235330382-d13371e5-10bd-46b9-8c94-210e17a1a53c.png" width="800" height="400">
 <br />
 
 -- Criar contatos --
 <br />
-![image](https://user-images.githubusercontent.com/111528571/235330410-9568a9fe-2f7c-42d1-a4e4-a9770e3733a5.png)
+<img src="https://user-images.githubusercontent.com/111528571/235330410-9568a9fe-2f7c-42d1-a4e4-a9770e3733a5.png" width="800" height="400">
 <br />
 
 -- Consulta contatos --
 <br />
-![image](https://user-images.githubusercontent.com/111528571/235330492-7517125f-aae5-438b-a511-62cb3a208562.png)
+<img src="https://user-images.githubusercontent.com/111528571/235330492-7517125f-aae5-438b-a511-62cb3a208562.png" width="800" height="200">
 <br />
 
 -- Atualizar contato --
 <br />
-![image](https://user-images.githubusercontent.com/111528571/235330527-7db73202-ced4-48c1-82b1-b0d38cce27f1.png)
+<img src="https://user-images.githubusercontent.com/111528571/235330527-7db73202-ced4-48c1-82b1-b0d38cce27f1.png" width="800" height="400">
 <br />
 
 -- Removendo o contato com #ID == 1 --
