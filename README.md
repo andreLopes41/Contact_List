@@ -9,7 +9,7 @@
 
 -- Tela inicial --
 <br />
-<img src="https://user-images.githubusercontent.com/111528571/235330210-ae125b4f-17fb-48e6-a928-b8c87e6fca87.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/111528571/235330210-ae125b4f-17fb-48e6-a928-b8c87e6fca87.png" width="800" height="400">
 <br />
 
 -- Consulta de pessoas --
