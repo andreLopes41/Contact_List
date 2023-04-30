@@ -1,0 +1,16 @@
+.box {
+    margin-top: 15%;
+}
+
+a {
+    padding: 30px 40px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}

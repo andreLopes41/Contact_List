@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+    
+    .voltar {
+        margin-top: 30px;
+        margin-left: 30px;
+        margin-bottom: 30px;
+        padding: 10px;
+        border-radius: 10px;
+        font-size: 18px;
+        text-decoration: none;
+        letter-spacing: 2px;
+        font-weight: bold;
+        color: white;
+        background-color: red;
+        display: inline-block;
+    }
+    
+    form {
+        margin: 30px;
+    }
+    
+    input[type="text"] {
+        font-size: 16px;
+        padding: 5px;
+        border-radius: 5px;
+        margin-right: 15px;
+        width: 250px;
+    }
+    
+    button[type="submit"] {
+        font-size: 18px;
+        letter-spacing: 2px;
+        padding: 10px 10px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    
+    table {
+        margin: 0 auto;
+        width: 95%;
+    }
+    
+    th, td {
+        padding: 10px;
+    }
+    
+    th {
+        background-color: rgb(41, 41, 41);
+        color: #fff;
+        font-weight: bold;
+        letter-spacing: 2px;
+    }
+    
+    td {
+        font-size: 17px;
+        text-align: center;
+        letter-spacing: 2px;
+    }
+    
+    td a {
+        color: #007bff;
+        margin-right: 10px;
+        text-decoration: none;
+        display: inline-block;
+        padding: 5px;
+    }
+    
+    td a:hover {
+        text-decoration: underline;
+        background-color: #e6f2ff;
+    }

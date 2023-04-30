@@ -1,0 +1,10 @@
+{
+    "require": {
+        "doctrine/orm": "^2.10.2",
+        "symfony/cache": "^6.2",
+        "doctrine/annotations": "^2.0"
+    },
+    "autoload": {
+        "psr-0": {"Entities": "src"}
+    }
+}
