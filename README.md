@@ -5,14 +5,14 @@
 ### Diagrama entidade relacionamento
 <br />
 <img src="https://user-images.githubusercontent.com/111528571/235330085-00d0f938-1a84-4a75-bb63-a8f1e2728334.png" width="800" height="300">
-<br />
 
 #
 
--- Tela inicial --
+### Tela inicial
 <br />
 <img src="https://user-images.githubusercontent.com/111528571/235330210-ae125b4f-17fb-48e6-a928-b8c87e6fca87.png" width="800" height="400">
-<br />
+
+#
 
 -- Consulta de pessoas --
 <br />
