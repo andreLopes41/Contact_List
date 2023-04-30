@@ -29,12 +29,16 @@ Listagem de pessoas cadastradas no sistema. Apresenta os principais dados de cad
 ### Atualizar pessoa
 <br />
 <img src="https://user-images.githubusercontent.com/111528571/235330382-d13371e5-10bd-46b9-8c94-210e17a1a53c.png" width="800" height="400">
+<br />
+Tela de edição de informações de uma pessoa já cadastrada no sistema. Permite atualizar informações como nome e cpf.
 
 #
 
 ### Criar contatos
 <br />
 <img src="https://user-images.githubusercontent.com/111528571/235330410-9568a9fe-2f7c-42d1-a4e4-a9770e3733a5.png" width="800" height="400">
+<br />
+Cadastrar novos contatos para uma pessoa já existente no sistema. É possível adicionar informações como tipo e descrição.
 
 #
 
