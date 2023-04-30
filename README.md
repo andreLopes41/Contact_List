@@ -2,9 +2,9 @@
 
  🚀  Este projeto é um simples sistema de contatos feito com PHP, JS, HTML, CSS e Banco de Dados, Operando com uma ORM chamada Doctrine. 
 
--- Diagrama entidade relacionamento--
+-- Diagrama entidade relacionamento --
 <br />
-![diagrama](https://user-images.githubusercontent.com/111528571/235330085-00d0f938-1a84-4a75-bb63-a8f1e2728334.png)
+<img src="https://user-images.githubusercontent.com/111528571/235330085-00d0f938-1a84-4a75-bb63-a8f1e2728334.png" width="400" height="400">
 <br />
 
 -- Tela inicial --
