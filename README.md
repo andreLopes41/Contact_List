@@ -78,6 +78,6 @@ Confirmação da exclusão de uma pessoa específica, identificada pela sua chav
 <br />
 <img src="https://user-images.githubusercontent.com/111528571/235330646-0e323b12-f96b-426b-a816-2fef1cff9adc.png" width="800" height="200">
 <br />
-Tela de busca no sistema. Permite realizar pesquisas por nome, retornando os resultados correspondentes.
+Busca no sistema. Permite realizar pesquisas por nome, retornando os resultados correspondentes.
 
 #
